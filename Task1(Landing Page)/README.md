@@ -1,6 +1,6 @@
 # Task/Project-1 (Landing Page)
 
-Link: https://utkarshrajput7.github.io/cricKIT/
+Link: https://utkarshrajput7.github.io/OCTANET_JUNE/Task1(Landing%20Page)/
 
 This project is basically a landing page. 
 
