@@ -1,6 +1,6 @@
 # Task/Project-1 (Landing Page)
 
-Link: 
+Link: https://utkarshrajput7.github.io/cricKIT/
 
 This project is basically a landing page. 
 
